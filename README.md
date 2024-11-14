@@ -15,6 +15,9 @@
     </a>
 </p>
 
+## Deploy do projeto 
+[Clique aqui](https://devalissonoliveira.github.io/maisprati-m3-atv6/)
+
 ## Instruções de entrega
  **Implementação de Modais:** Adicionar modais interativos para exibir informações adicionais sobre os jogos ou serviços da página. Esses modais devem ser acionados por botões ou elementos clicáveis e devem conter conteúdo relevante, como formulários, descrições detalhadas, ou opções de compra.
 
